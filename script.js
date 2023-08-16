@@ -23,14 +23,14 @@ function calcular() {
 }
 function carnePP(duracao) {
   if (duracao >= 6) {
-    return 800;
+    return 650;
   } else {
     return 400;
   }
 }
 function cervejaPP(duracao) {
   if (duracao >= 6) {
-    return 4000;
+    return 3000;
   } else {
     return 2000;
   }
