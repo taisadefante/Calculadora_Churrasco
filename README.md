@@ -5,8 +5,6 @@ Este projeto foi realizado no curso Programador Br com algumas modificações. O
 
 Baseado na quantidade de pessoas e crianças que irão para o evento.
 
-## Base de calculo
-
 ## Tecnologia utilizada
 O projeto foi desenvolvido utilizando:
   - HTML
